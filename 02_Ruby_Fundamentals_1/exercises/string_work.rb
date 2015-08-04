@@ -14,4 +14,4 @@ puts "#{bewd_class} is a course that moves at a fast pace."
 
 puts "#{name.reverse} is my name backwards"
 
-puts "If you like "
+puts "this is my last name as an array"des
