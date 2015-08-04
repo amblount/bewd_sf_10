@@ -25,3 +25,6 @@ puts "i just aded #{book} to the array"
 
 #dealers.each do |dealer|
 #[1] pry(main)*   puts "I am a #{dealer}
+
+
+#reverse it homework asignment
